@@ -1,0 +1,151 @@
+
+
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.main-heading{
+  color: #0523a8;
+  font-size: 26px;
+}
+
+.main-heading-white{
+  color: #fff;
+  font-size: 26px;
+}
+
+.main-heading-black{
+  color: #000;
+  font-size: 26px;
+}
+
+.top-nav{
+  background-color: #0523a8;
+  
+}
+
+.sub-heading{
+  color: #0523a8;
+  font-size: 20px;
+}
+
+.sub-heading-white{
+  color: #fff;
+  font-size: 20px;
+}
+
+.sub-heading-black{
+  color: #000;
+  font-size: 20px;
+}
+
+.underline{
+  height: 04px;
+  width: 4rem;
+  background-color: #e2ff09;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.underline-white{
+  height: 04px;
+  width: 4rem;
+  background-color: #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bg-c-light{
+  background-color: #0523a8;
+}
+
+.bg-c-yellow{
+  background-color: #ecfa2a;
+}
+
+.brand {
+  width: 300px;
+  height: 80px;
+  background-image: url(../src/components/images/brand.png);
+}
+
+.about-header {
+  background-image: url('/src/components/images/about.jpeg');
+  height:300px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-size: 70px;
+  color: #fff;
+  background-color:yellow;
+}
+
+.services-header {
+  background-image: url('/src/components/images/services.jpeg');
+  height:300px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-size: 70px;
+  color: #fff;
+  background-color:yellow;
+}
+
+.portfolio-header {
+  background-image: url('/src/components/images/portfolio.jpeg');
+  height:300px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-size: 70px;
+  color: #fff;
+  background-color:yellow;
+}
+
+.contact-header {
+  background-image: url('/src/components/images/ContacUs.jpeg');
+  height:300px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  font-size: 70px;
+  color: #fff;
+  background-color:yellow;
+}
+
+.call-to-action {
+  height:150px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color: #fff;
+  background-color: #0523a8;
+}
+
+.social {
+  color:#fff;
+  text-decoration: none;
+  transition: transform .2s; /* Animation */
+
+}
+.social a{
+  color:#fff;
+  text-decoration: none;
+
+}
+
+.social :hover{
+  transform: scale(1.1);
+  color:yellow;
+};
+
+.social a:hover{
+  color:yellow;
+  
+}
+
+.footer a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer a:hover{
+  color: yellow;
+ 
+}
