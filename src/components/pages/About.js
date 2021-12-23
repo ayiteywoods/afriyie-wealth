@@ -2,11 +2,15 @@ import React from 'react';
 import Team1 from '../images/about1.jpeg';
 import Vmv from './inc/Vmv';
 import Team from './inc/Team';
+import Header from '../images/about.jpeg'
 
 function Aboutus() {
     return (
       <div>
-        <div class="jumbotron about-header text-center d-flex justify-content-center align-items-center">
+        <div
+          class="jumbotron about-header text-center d-flex justify-content-center align-items-center"
+          style={{ backgroundImage: `url(${Header})` }}
+        >
           <div class="container">
             <h1 className="display-3 ">About Us</h1>
             <div className="underline mx-auto"></div>

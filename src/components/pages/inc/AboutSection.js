@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import Team2 from '../../images/team2.jpg';
-import Team1 from '../../images/team1.jpg';
+import Team2 from '../../images/team2.jpeg';
+import Team1 from '../../images/team1.jpeg';
 
 function AboutSection() {
     return (
@@ -21,7 +21,7 @@ function AboutSection() {
                     <iframe
                       width="100%"
                       height="400"
-                      src="https://www.youtube.com/embed/Jiyku2TaPug"
+                      src="https://www.youtube.com/watch?v=EbDN2hxDnXE"
                       title="YouTube video player"
                       frameborder="0"
                       allow="accelerometer; autoplay; 

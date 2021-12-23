@@ -1,10 +1,10 @@
 import React from 'react';
-import Airport from '../../images/airport.jpeg';
-import Ama from '../../images/ama.gif';
-import Kma from '../../images/kma.jpeg';
-import Skma from '../../images/skma.jpeg';
-import Gpha from '../../images/gpha.jpeg';
-import Lagos from '../../images/lagos.png';
+import Airport from "../../images/comp.png";
+import Ama from "../../images/comp.png";
+import Kma from "../../images/comp.png";
+import Skma from "../../images/comp.png";
+import Gpha from "../../images/comp.png";
+import Lagos from "../../images/comp.png";
 
 function PortfolioSection() {
     return(

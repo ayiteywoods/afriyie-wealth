@@ -1,16 +1,16 @@
 import React from 'react';
-import Airport from '../../images/airport.jpeg';
-import Ama from '../../images/ama.gif';
-import Kma from '../../images/kma.jpeg';
-import Skma from '../../images/skma.jpeg';
-import Gpha from '../../images/gpha.jpeg';
-import Lagos from '../../images/lagos.png';
-import Dealer1 from '../../images/schwarze.jpg';
-import Dealer2 from '../../images/bergman.jpeg';
-import Waste1 from '../../images/waste.jpeg';
-import Container from '../../images/container.jpeg';
-import Compaction from '../../images/compaction.jpeg';
-import Mini from '../../images/mini.jpeg';
+import Airport from "../../images/comp.png";
+import Ama from "../../images/comp.png";
+import Kma from "../../images/comp.png";
+import Skma from "../../images/comp.png";
+import Gpha from "../../images/comp.png";
+import Lagos from '../../images/comp.png';
+import Dealer1 from "../../images/comp.png";
+import Dealer2 from "../../images/comp.png";
+import Waste1 from "../../images/comp.png";
+import Container from "../../images/comp.png";
+import Compaction from "../../images/comp.png";
+import Mini from "../../images/comp.png";
 
 
 function Portfolios() {

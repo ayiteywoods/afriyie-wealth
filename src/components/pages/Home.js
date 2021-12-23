@@ -2,11 +2,10 @@ import React from 'react';
 import Slider from '../inc/Slider';
 import {Link} from 'react-router-dom';
 import Vmv from './inc/Vmv';
-import OurServices from './inc/OurServices';
+import OurServices2 from './inc/OurServices2';
 import AboutSection from './inc/AboutSection';
 import ContactForm from './inc/ContactForm';
 import Partners from './inc/Partners';
-import PortfolioSection from './inc/PortfolioSection';
 
 
 function Home() {
@@ -39,17 +38,17 @@ function Home() {
         {/* About us Section */}
         <AboutSection />
 
-        {/* Portfolio Section */}
-        <PortfolioSection />
+        {/* Portfolio Section 
+        <PortfolioSection /> */}
 
         {/*  Our Services */}
-        <OurServices />
-
-        {/* Get in Touch Section*/}
-        <ContactForm />
+        <OurServices2 />
 
         {/* Partners Section*/}
         <Partners />
+        
+        {/* Get in Touch Section*/}
+        <ContactForm />
       </div>
     );
 }

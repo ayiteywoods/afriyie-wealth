@@ -71,7 +71,7 @@
 }
 
 .about-header {
-  background-image: url('/src/components/images/about.jpeg');
+  background-image: url(/src/components/images/about.jpeg);
   height:300px;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -81,7 +81,7 @@
 }
 
 .services-header {
-  background-image: url('/src/components/images/services.jpeg');
+  background-image: url(/src/components/images/services.jpeg);
   height:300px;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -91,7 +91,7 @@
 }
 
 .portfolio-header {
-  background-image: url('/src/components/images/portfolio.jpeg');
+  background-image: url(/src/components/images/portfolio.jpeg);
   height:300px;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -101,7 +101,7 @@
 }
 
 .contact-header {
-  background-image: url('/src/components/images/ContacUs.jpeg');
+  background-image: url(/src/components/images/ContacUs.jpeg);
   height:300px;
   padding-top: 60px;
   padding-bottom: 60px;

@@ -4,13 +4,17 @@ import {FaPhoneSquareAlt} from 'react-icons/fa';
 import {FaMailBulk} from 'react-icons/fa';
 import ContactForm from './inc/ContactForm';
 import Map from './inc/Map';
+import Header from "../images/ContacUs.jpeg";
 
 
 
 function Contactus() {
     return (
       <div>
-        <div class="jumbotron contact-header text-center d-flex justify-content-center align-items-center">
+        <div
+          class="jumbotron contact-header text-center d-flex justify-content-center align-items-center"
+          style={{ backgroundImage: `url(${Header})` }}
+        >
           <div class="container">
             <h1 className="display-3 ">Contact Us</h1>
             <div className="underline mx-auto"></div>

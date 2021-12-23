@@ -65,7 +65,7 @@ function Navbar() {
                       </li>
                       <li class="nav-item">
                         <Link to="#" class="nav-link active">
-                          News/Events
+                          Events & News
                         </Link>
                       </li>
 

@@ -1,9 +1,9 @@
 import React from "react";
 import Portfolios from "./inc/Portfolios";
-import Ts1 from "../images/ts_1.jpeg";
-import Ts2 from "../images/ts_2.jpeg";
-import Ts3 from "../images/ts_3.jpeg";
-import Ts4 from "../images/ts_4.jpeg";
+import Ts1 from "../images/comp.png";
+import Ts2 from "../images/comp.png";
+import Ts3 from "../images/comp.png";
+import Ts4 from "../images/comp.png";
 import CallToAction from "./inc/CallToAction";
 
 function Portfolio() {
